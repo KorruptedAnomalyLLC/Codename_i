@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 7397
+  controlID: 10788
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,7 +141,7 @@ MonoBehaviour:
   m_MinSize: {x: 433, y: 492}
   m_MaxSize: {x: 14003, y: 14042}
   vertical: 1
-  controlID: 7398
+  controlID: 10789
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -166,7 +166,7 @@ MonoBehaviour:
   m_MinSize: {x: 303, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 7399
+  controlID: 10790
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -224,7 +224,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 026cffffbc6cffff746dffff8a6dffff1e6effff346effffc06effff446fffffc86ffffff072ffffb273ffff3874ffffc675ffffa68bffff6afbffffea330000ca3800007e3b0000ee3b0000fe3b0000
+      m_ExpandedIDs: a058ffffba5bffff026cffffbc6cffff746dffff8a6dffff1e6effff346effffc06effff446fffffc86ffffff072ffffb273ffff3874ffffc675ffffa68bffff6afbffffea330000ca3800007e3b0000ee3b0000763f0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -312,9 +312,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -6.697376, y: 0.35169363, z: 4.9393415}
+    m_Target: {x: 7.3151, y: -1.053319, z: 2.019742}
     speed: 2
-    m_Value: {x: -6.697376, y: 0.35169363, z: 4.9393415}
+    m_Value: {x: 7.3151, y: -1.053319, z: 2.019742}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -360,13 +360,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.010215968, y: -0.44273287, z: 0.005055805, w: 0.896563}
+    m_Target: {x: 0.09000238, y: 0.2192413, z: -0.020315718, w: 0.97129667}
     speed: 2
-    m_Value: {x: 0.010216134, y: -0.44274008, z: 0.0050558876, w: 0.8965776}
+    m_Value: {x: 0.090002514, y: 0.21924163, z: -0.020315748, w: 0.9712981}
   m_Size:
-    m_Target: 5.2826557
+    m_Target: 1.3713915
     speed: 2
-    m_Value: 5.2826557
+    m_Value: 1.3713915
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -505,7 +505,7 @@ MonoBehaviour:
   m_MinSize: {x: 433, y: 271}
   m_MaxSize: {x: 14003, y: 10021}
   vertical: 0
-  controlID: 7323
+  controlID: 10742
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -573,19 +573,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materials
+    - Assets/Animations
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Materials
+  - Assets/Animations
   m_LastFoldersGridSize: 16
   m_LastProjectPath: /Users/austinwest/Desktop/Korrupted Anomaly/ImmunoWars/Unity/Codename_i/ImmunoWars
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c2340000
-    m_LastClickedID: 13506
+    m_SelectedIDs: c0340000
+    m_LastClickedID: 13504
     m_ExpandedIDs: 00000000b23400003e36000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -639,9 +639,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: de3b0000
-    m_LastClickedInstanceID: 15326
-    m_HadKeyboardFocusLastEvent: 1
+    m_SelectedInstanceIDs: 4c3f0000
+    m_LastClickedInstanceID: 16204
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000d4db0000b6010100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -724,7 +724,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 15318
+  m_LastSelectedObjectID: 16204
 --- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -814,7 +814,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
-  m_LastInspectedObjectInstanceID: 15326
+  m_LastInspectedObjectInstanceID: 16204
   m_LastVerticalScrollValue: 0
 --- !u!114 &19
 MonoBehaviour:
