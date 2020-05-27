@@ -128,6 +128,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -7673886404300160364, guid: e9ec0ca5bba8249b8b9053654ab58f75,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3bded00981e95504a8e47f996835ca9a, type: 2}
     - target: {fileID: -4216859302048453862, guid: e9ec0ca5bba8249b8b9053654ab58f75,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -188,6 +193,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Petrie_Dish3b
       objectReference: {fileID: 0}
+    - target: {fileID: 4288508267217597388, guid: e9ec0ca5bba8249b8b9053654ab58f75,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3bded00981e95504a8e47f996835ca9a, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9ec0ca5bba8249b8b9053654ab58f75, type: 3}
 --- !u!1 &1113487058
@@ -289,6 +299,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -8470045053010906745, guid: 8b10b914fbdfe495c81d5a8605ca47ba,
+        type: 3}
+      propertyPath: m_Name
+      value: Base
+      objectReference: {fileID: 0}
+    - target: {fileID: -5259225927154676129, guid: 8b10b914fbdfe495c81d5a8605ca47ba,
+        type: 3}
+      propertyPath: m_Name
+      value: Agar
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 8b10b914fbdfe495c81d5a8605ca47ba,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -349,6 +369,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Petrie_Dish2b
       objectReference: {fileID: 0}
+    - target: {fileID: 748748645750174535, guid: 8b10b914fbdfe495c81d5a8605ca47ba,
+        type: 3}
+      propertyPath: m_Name
+      value: Lid
+      objectReference: {fileID: 0}
+    - target: {fileID: 1711277887553122256, guid: 8b10b914fbdfe495c81d5a8605ca47ba,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3bded00981e95504a8e47f996835ca9a, type: 2}
+    - target: {fileID: 4196040851096478221, guid: 8b10b914fbdfe495c81d5a8605ca47ba,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3bded00981e95504a8e47f996835ca9a, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8b10b914fbdfe495c81d5a8605ca47ba, type: 3}
 --- !u!1 &1579341516
@@ -496,11 +531,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2994021993198774253, guid: b05e369ffdebe412da3e5afef59b29ae,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3bded00981e95504a8e47f996835ca9a, type: 2}
     - target: {fileID: -927199367670048503, guid: b05e369ffdebe412da3e5afef59b29ae,
         type: 3}
       propertyPath: m_Name
       value: Petrie_Dish4b
       objectReference: {fileID: 0}
+    - target: {fileID: -239555428307642338, guid: b05e369ffdebe412da3e5afef59b29ae,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3bded00981e95504a8e47f996835ca9a, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b05e369ffdebe412da3e5afef59b29ae, type: 3}
 --- !u!1 &753326984617990684
@@ -624,6 +669,7 @@ GameObject:
   - component: {fileID: 828228035047952919}
   - component: {fileID: 8755458415303163523}
   - component: {fileID: 3169313262380871326}
+  - component: {fileID: 3964146110465713605}
   m_Layer: 0
   m_Name: Lid
   m_TagString: Untagged
@@ -631,6 +677,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &3964146110465713605
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3964146110465713604}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 4b342f1bae9c647ab914ff441574f670, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!23 &4063835365203666566
 MeshRenderer:
   m_ObjectHideFlags: 0
