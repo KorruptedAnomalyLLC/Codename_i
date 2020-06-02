@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/GameplayTest.unity
+- path: Assets/InsaneSystems/RTSStarterKit/Scenes/Lobby.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
